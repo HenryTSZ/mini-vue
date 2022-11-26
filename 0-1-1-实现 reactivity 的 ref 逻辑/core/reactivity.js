@@ -22,7 +22,7 @@ export class Dep {
 
   notice() {
     this.effects.forEach(effect => {
-      return effect()
+      effect()
     })
   }
 }
