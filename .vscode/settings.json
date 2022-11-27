@@ -20,7 +20,7 @@
   "prettier.printWidth": 100,
   // JSX 有多个属性时，将 `>` 放在最后一行的末尾，而不是单独放在下一行（不适用于自闭元素）
   "prettier.bracketSameLine": true,
-  // 格式化 vue 插件名: Vetur
+  // 格式化 vue 插件名：Vetur
   "vetur.format.defaultFormatter.html": "prettier",
   "vetur.format.defaultFormatterOptions": {
     "prettier": {
@@ -48,7 +48,7 @@
   "editor.formatOnPaste": true,
 
   // ------------------------ 编辑器相关 ------------------------
-  // 执行文字相关的导航或操作时将用作文字分隔符的字符(比如双击选中文字, 只会选中下面分隔符中的文字)
+  // 执行文字相关的导航或操作时将用作文字分隔符的字符 (比如双击选中文字，只会选中下面分隔符中的文字)
   "editor.wordSeparators": "`~!！@#$￥%^……&*(（)）=+[【{]】}\\、|;；:：'‘\"”,，.。<《>》/、?？",
   // 在“打开的编辑器”窗格中显示的编辑器数量。将其设置为 0 可隐藏窗格。
   "explorer.openEditors.visible": 0,
@@ -70,7 +70,7 @@
   "breadcrumbs.enabled": true,
   // 在导航路径视图中仅显示当前符号
   "breadcrumbs.symbolPath": "last",
-  // 当存在多个目标位置时, 跳转到主要位置(不显示预览视图)
+  // 当存在多个目标位置时，跳转到主要位置 (不显示预览视图)
   "editor.gotoLocation.multipleImplementations": "goto",
   // 小地图始终显示滑块
   "editor.minimap.showSlider": "always",
@@ -83,5 +83,7 @@
   // 在默认不支持 Emmet 的语言中启用 Emmet 缩写功能。在此添加该语言与受支持的语言间的映射。
   "emmet.includeLanguages": {
     "vue-html": "html"
-  }
+  },
+  // AutoCorrect 用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，同时尝试以安全的方式自动纠正标点符号等等。
+  "autocorrect.enable": true
 }

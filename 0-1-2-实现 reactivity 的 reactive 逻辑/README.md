@@ -49,7 +49,7 @@ return new Proxy(raw, {
 
 这就涉及到 `dep` 的存储问题
 
-这个 `dep` 应该和具体对象(target)及其里面的具体的值(key)匹配的
+这个 `dep` 应该和具体对象 (target) 及其里面的具体的值 (key) 匹配的
 
 比如 `age` 就和 `user` 里面的 `age` 匹配；`name` 就和 `user` 里面的 `name` 匹配
 

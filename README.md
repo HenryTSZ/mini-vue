@@ -7,3 +7,5 @@
 ## [0-1-2-实现 reactivity 的 reactive 逻辑](./0-1-2-实现%20reactivity%20的%20reactive%20逻辑/README.md)
 
 ## [0-1-3-实现 mini-vue 的雏形](./0-1-3-实现%20mini-vue%20的雏形/README.md)
+
+## [0-1-4-mini-vue 框架的演化](./0-1-4-mini-vue%20框架的演化/README.md)
