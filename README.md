@@ -9,3 +9,5 @@
 ## [0-1-3-实现 mini-vue 的雏形](./0-1-3-实现%20mini-vue%20的雏形/README.md)
 
 ## [0-1-4-mini-vue 框架的演化](./0-1-4-mini-vue%20框架的演化/README.md)
+
+## [0-1-5-虚拟节点 vnode](./0-1-5-虚拟节点%20vnode/README.md)
