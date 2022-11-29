@@ -11,3 +11,5 @@
 ## [0-1-4-mini-vue 框架的演化](./0-1-4-mini-vue%20框架的演化/README.md)
 
 ## [0-1-5-虚拟节点 vnode](./0-1-5-虚拟节点%20vnode/README.md)
+
+## [0-1-6-mountElement](./0-1-6-mountElement/README.md)
