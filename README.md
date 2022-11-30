@@ -13,3 +13,5 @@
 ## [0-1-5-虚拟节点 vnode](./0-1-5-虚拟节点%20vnode/README.md)
 
 ## [0-1-6-mountElement](./0-1-6-mountElement/README.md)
+
+## [0-1-7-diff(1)](./0-1-7-diff(1)/README.md)
